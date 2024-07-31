@@ -1,0 +1,112 @@
+
+.logo-container
+{
+    
+    left : 180px;
+    top : -100px;
+}
+.logo-container img{
+    width : 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+nav {
+    display : flex;
+}
+nav a{
+    font-size: 20px;
+    padding : 10px;
+    text-decoration : none;
+    color : black;
+    margin-top : 50px;
+    margin-right : 40px;
+}
+.images img{
+    width: 1300px;
+    margin-left : 90px;
+    
+}
+.grid1{
+    margin: 10px;
+    background-color: grey;
+    color : white;
+    flex : 1;
+    padding : 10px;
+}
+.grid2{
+    margin: 10px;
+    background-color:grey;
+    color : white;
+    flex :1;
+    padding : 10px;
+}
+.grid3{
+    margin: 10px; 
+    background-color: grey;
+    color : white;
+    flex :1;
+    padding:10px;
+}
+.grid1 a{
+    width : 120px;
+   
+    color : white;
+    background-color : white;
+    text-decoration : none;
+    color : black;
+  
+}
+
+.grid2 a{
+    width : 120px;
+    color : white;
+    background-color : white;
+    text-decoration : none;
+    color : black;
+
+   
+    
+}
+.grid3 a{
+    width : 120px;
+    color : white;
+    background-color : white;
+    text-decoration : none;
+    color : black;
+
+}
+.data
+{
+   display : flex;
+    font-size : 20px;
+}
+.dealerimage img
+{
+    width : 300px;
+   
+   
+    left : 970px;
+    top : -1280px;
+
+}
+.foot{
+   
+    width : 1515px;
+    background-color : black;
+    color : white;
+   
+    top : -1290px;
+    font-size : 14px
+
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.top nav{
+    margin-top: 30px;
+}
+.grids{
+    display: flex;
+    justify-content: space-between;
+}
